@@ -1,0 +1,13 @@
+{
+  "name": "cbx-atomic-bot",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-fetch": "^2.6.1",
+    "@solana/web3.js": "^1.90.4"
+  }
+}
